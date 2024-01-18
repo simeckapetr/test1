@@ -1,3 +1,3 @@
 # Test
 
-Test githuby simeckapetr
+Test githubu simeckapetr
